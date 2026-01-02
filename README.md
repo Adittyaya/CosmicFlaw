@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmicFlaw
+- 👋 Hi, I’m @Aditya
 - I’m interested in GameDev and Webdev (almost anything that has some form of programming involved in it)
   1. For Gamedev, I use Godot with GDScript.
   2. For Webdev, I use HTML and CSS (currently learning JS)
